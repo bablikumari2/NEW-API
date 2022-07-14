@@ -1,0 +1,41 @@
+{
+    "totalArticles": 50757,
+    "articles": [
+        {
+            "title": "These Nefarious Android Apps Are Stealing Cash From Millions Of Devices, Delete Now",
+            "description": "Time and again, we're reminded that even when installing Android apps directly from Google's Play Store, contracting a malware infection is still possible.",
+            "content": "Time and again, we're reminded that even when installing Android apps directly from Google's Play Store , contracting a malware infection is still possible. It's still the safest route (versus venturing off elsewhere and/or sideloading), but still no... [1533 chars]",
+            "url": "https://hothardware.com/news/nefarious-android-apps-stealing-cash-millions-devices-delete-now",
+            "image": "https://images.hothardware.com/contentimages/newsitem/59104/content/Android_Android_Hero.jpg",
+            "publishedAt": "2022-07-14T15:03:00Z",
+            "source": {
+                "name": "Hot Hardware",
+                "url": "https://hothardware.com"
+            }
+        },
+        {
+            "title": "Google stops Kakaotalk updates in Korea over billing",
+            "description": "The extremely popular Kakaotalk messaging app has been blocked from providing Android updates by Google over a billing issue.",
+            "content": "The Google Play Store has been cracking down on its billing policies over the past couple of years, and some major apps have complied with the new rules. In South Korea, though, Google had resorted to blocking updates to the popular messaging app Kak... [2764 chars]",
+            "url": "https://9to5google.com/2022/07/14/google-kakaotalk-block-billing/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/kakaotalk-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-07-14T13:45:00Z",
+            "source": {
+                "name": "9to5Google",
+                "url": "https://9to5google.com"
+            }
+        },
+        {
+            "title": "Lesser known Devon beach named 'fourth best in England'",
+            "description": "Beach rankings from Holidu magazine were based on average Google reviews",
+            "content": "Sign up for our newsletter to get the latest and breaking local news for the day\nBest beaches are a hot topic with the summer holidays fast approaching and temperatures reaching sweltering heights. Holiday rental site Holidu has published its Best Be... [1576 chars]",
+            "url": "https://www.devonlive.com/whats-on/whats-on-news/lesser-known-devon-beach-named-7331941",
+            "image": "https://i2-prod.devonlive.com/incoming/article7285078.ece/ALTERNATES/s1200/22283701_2018-06-04_Hundreds-of-people-take-to-the-b.jpg",
+            "publishedAt": "2022-07-14T13:37:24Z",
+            "source": {
+                "name": "Devon Live",
+                "url": "https://www.devonlive.com"
+            }
+        }
+    ]
+}
