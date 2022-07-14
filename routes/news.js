@@ -32,7 +32,7 @@ router.post('/search',async(req,res)=>{
     // console.log(req.body.search)
 
     try {
-        var url = `http://newsapi.org/v2/everything?q=${search}&apiKey=4183824d24737afcaf09bd21221a0a6f`
+        var url = `https://newsapi.org/v2/everything?q=tesla&from=2022-06-14&sortBy=publishedAt&apiKey=4183824d24737afcaf09bd21221a0a6f`
 
         const news_get =await axios.get(url)
         res.render('news',{articles:news_get.data.articles})
